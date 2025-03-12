@@ -19,8 +19,8 @@ Welcome to my portfolio repository! Here you'll find an overview of the projects
 
 Here are some projects where I have contributed as a collaborator:
 
-- **[Project Name](Original Repo Link)**  
-  My role: Worked on [specific feature or contribution].
+- **EuroHPC_Student_Challenge_2025_Team_2 https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git**  
+  Challenge organized by EUmaster4HPC for EuroHPC Summit 2025 in KRAKÓW.
 
 - **[Project Name](Original Repo Link)**  
   Contribution: Helped with [bug fixing, feature development, etc.].
@@ -29,6 +29,5 @@ Here are some projects where I have contributed as a collaborator:
 
 Feel free to connect with me on LinkedIn or GitHub if you're interested in discussing tech, collaborations, or just to say hi!
 
-- GitHub: [Your GitHub Profile](Your GitHub Link)
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Link)
-
+- GitHub: https://github.com/LucaLM02
+- LinkedIn: www.linkedin.com/in/luca-lamperti-3920521b8
