@@ -1,6 +1,18 @@
-# 🚀 My Project Portfolio
+# 🚀 Welcome to My Portfolio Repository
 
-Welcome to my portfolio repository! Here you'll find an overview of the projects I have worked on, both personal and collaborative. My goal is to continuously improve my skills and contribute to impactful projects.
+## 👋 About Me  
+Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performance Computing Engineering** at **Politecnico di Milano** and **USI Università della Svizzera italiana**. Passionate about **parallel computing and quantum computing**, I am dedicated to solving complex computational challenges.
+📍 Based in: Como, Italy  
+
+---
+
+## 📂 What's in this Repository?
+This repository serves as my **digital portfolio**, containing my CV, key projects, and research work.
+
+### 📄 **My CV**
+📥 [Download my CV](./cv/cv.pdf) *(Updated: 2025)*  
+
+### 💻 **Project Portfolio**
 
 ## 🔥 Currently Working On
 
@@ -25,9 +37,12 @@ Here are some projects where I have contributed as a collaborator:
 - **[Project Name](Original Repo Link)**  
   Contribution: Helped with [bug fixing, feature development, etc.].
 
-## 📫 Get in Touch
+---
 
+## 📬 Get in Touch
 Feel free to connect with me on LinkedIn or GitHub if you're interested in discussing tech, collaborations, or just to say hi!
 
-- GitHub: https://github.com/LucaLM02
-- LinkedIn: www.linkedin.com/in/luca-lamperti-3920521b8
+📧 Contact: l.lamperti2002@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/luca-lamperti-3920521b8
+
+🚀 *Let’s build the future of computing together!*
