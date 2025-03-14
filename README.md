@@ -17,8 +17,9 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 ## 🔥 Currently Working On
 
-- **[Project Name]** - Brief description of what you're currently building.
-- **[Project Name]** - Another project in development.
+- **ANN for Heart Sounds Classification** - .
+- **Solver for Fisher-Kolmogorov equation for neurodegenerative disease** - .
+- **Implementation of Lattice Boltzmann Method applied to a lid-driven cavity flow** - describe.
 
 ## 🏆 Personal Projects
 
@@ -31,6 +32,9 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 ## 🤝 Collaborative Projects
 
 Here are some projects where I have contributed as a collaborator:
+
+- **A distributed version of the game Codex Naturalis https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti**  
+  Contribution: Helped with [bug fixing, feature development, etc.].
 
 - **EuroHPC_Student_Challenge_2025_Team_2 https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git**  
   Challenge organized by EUmaster4HPC for EuroHPC Summit 2025 in KRAKÓW.
