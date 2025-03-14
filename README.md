@@ -1,5 +1,3 @@
-# 🚀 Welcome to My Portfolio Repository
-
 ## 👋 About Me  
 Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performance Computing Engineering** at **Politecnico di Milano** and **USI Università della Svizzera italiana**. Passionate about **parallel computing and quantum computing**, I am dedicated to solving complex computational challenges.
 
@@ -10,7 +8,7 @@ Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performa
 ## 📂 What's in this Repository?
 This repository serves as my **digital portfolio**, containing my CV, key projects, and research work.
 
-### 📄 **My CV**
+## 📄 **My CV**
 📥 [Download my CV](./CV/CV.pdf) *(Updated: 2025)*  
 
 ### 💻 **Project Portfolio**
