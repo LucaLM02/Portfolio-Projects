@@ -11,7 +11,7 @@ Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performa
 This repository serves as my **digital portfolio**, containing my CV, key projects, and research work.
 
 ### 📄 **My CV**
-📥 [Download my CV](./cv/cv.pdf) *(Updated: 2025)*  
+📥 [Download my CV](./CV/CV.pdf) *(Updated: 2025)*  
 
 ### 💻 **Project Portfolio**
 
