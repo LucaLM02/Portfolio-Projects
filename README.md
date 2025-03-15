@@ -49,7 +49,6 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 If you're interested in discussing **HPC, Quantum Computing, or Parallel Programming**, feel free to connect!
 
 [![🌟 LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luca-lamperti-3920521b8)  
-[![💻 GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)  
 [![📧 Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:l.lamperti2002@gmail.com)  
 
 🚀 *Let’s build the future of computing together!*
