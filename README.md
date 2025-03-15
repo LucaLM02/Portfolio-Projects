@@ -1,7 +1,11 @@
+# 🚀 Welcome to My Portfolio Repository
+
 ## 👋 About Me  
 Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performance Computing Engineering** at **Politecnico di Milano** and **USI Università della Svizzera italiana**. Passionate about **parallel computing and quantum computing**, I am dedicated to solving complex computational challenges.
 
-📍 Based in: Como, Italy  
+📍 **Location:** Como, Italy  
+📧 **Email:** l.lamperti2002@gmail.com  
+🔗 **[LinkedIn](https://www.linkedin.com/in/luca-lamperti-3920521b8)**  
 
 ---
 
@@ -9,43 +13,42 @@ Hi! I'm **Luca**, currently pursuing a dual Master’s degree in **High-Performa
 This repository serves as my **digital portfolio**, containing my CV, key projects, and research work.
 
 ## 📄 **My CV**
-📥 [Download my CV](./CV/CV.pdf) *(Updated: 2025)*  
+[![📥 Download My CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./CV/CV.pdf) *(Updated: 2025)*  
 
-### 💻 **Project Portfolio**
+---
 
-## 🔥 Currently Working On
+## 💻 **Project Portfolio**
 
-- **ANN for Heart Sounds Classification** - .
-- **Solver for Fisher-Kolmogorov equation for neurodegenerative disease** - .
-- **Implementation of Lattice Boltzmann Method applied to a lid-driven cavity flow** - describe.
+### 🔥 Currently Working On
 
-## 🏆 Personal Projects
+| Project | Description |
+|---------|------------|
+| **ANN for Heart Sounds Classification** | Neural network-based classification of heart sound signals. |
+| **Solver for Fisher-Kolmogorov Equation** | Solving PDEs for neurodegenerative disease modeling. |
+| **Lattice Boltzmann Method Simulation** | Computational fluid dynamics simulation for lid-driven cavity flow. |
 
-- **[Project Name](GitHub Repo Link)**  
-  Description of the project, what it does, and key technologies used.
+### 🏆 Personal Projects
 
-- **[Project Name](GitHub Repo Link)**  
-  Brief details about this project and your role in it.
+| Project | Description |
+|---------|------------|
+| **[Project Name](GitHub Repo Link)** | Description of the project, technologies used, and impact. |
+| **[Project Name](GitHub Repo Link)** | Brief details about this project and your role in it. |
 
-## 🤝 Collaborative Projects
+### 🤝 Collaborative Projects
 
-Here are some projects where I have contributed as a collaborator:
-
-- **A distributed version of the game Codex Naturalis https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti**  
-  Contribution: Helped with [bug fixing, feature development, etc.].
-
-- **EuroHPC_Student_Challenge_2025_Team_2 https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git**  
-  Challenge organized by EUmaster4HPC for EuroHPC Summit 2025 in KRAKÓW.
-
-- **[Project Name](Original Repo Link)**  
-  Contribution: Helped with [bug fixing, feature development, etc.].
+| Project | Contribution |
+|---------|-------------|
+| **[Codex Naturalis](https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti)** | Helped with bug fixing, feature development. |
+| **[EuroHPC Student Challenge 2025](https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git)** | Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków. |
+| **[Project Name](Original Repo Link)** | Helped with [bug fixing, feature development, etc.]. |
 
 ---
 
 ## 📬 Get in Touch
-Feel free to connect with me on LinkedIn or GitHub if you're interested in discussing tech, collaborations, or just to say hi!
+If you're interested in discussing **HPC, Quantum Computing, or Parallel Programming**, feel free to connect!
 
-📧 Contact: l.lamperti2002@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/luca-lamperti-3920521b8
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luca-lamperti-3920521b8)  
+[![💻 GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)  
+[![📧 Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:l.lamperti2002@gmail.com)  
 
 🚀 *Let’s build the future of computing together!*
