@@ -19,14 +19,6 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 ## 💻 **Project Portfolio**
 
-### 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)  
-![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)  
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-
 ### 🔥 Currently Working On
 
 - **ANN for Heart Sounds Classification**  
