@@ -19,13 +19,21 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 ## 💻 **Project Portfolio**
 
+### 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
+![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ### 🔥 Currently Working On
 
 | Project | Description |
 |---------|------------|
-| **ANN for Heart Sounds Classification** | Neural network-based classification of heart sound signals. |
-| **Solver for Fisher-Kolmogorov Equation** | Solving PDEs for neurodegenerative disease modeling. |
-| **Lattice Boltzmann Method Simulation** | Computational fluid dynamics simulation for lid-driven cavity flow. |
+| **ANN for Heart Sounds Classification** | Neural network-based classification of heart sound signals. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| **Solver for Fisher-Kolmogorov Equation** | Solving PDEs for neurodegenerative disease modeling. | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge)
+| **Lattice Boltzmann Method Simulation** | Benchmark for computational fluid dynamics simulation for lid-driven cavity flow. | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### 🏆 Personal Projects
 <!--
@@ -41,8 +49,8 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 
 | Project | Contribution |
 |---------|-------------|
-| **[Codex Naturalis](https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti)** | Helped with development of a distributed version of the game Codex Naturalis. |
-| **[EuroHPC Student Challenge 2025](https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git)** | Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków. |
+| **[Codex Naturalis](https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti)** | Helped with the development of a distributed version of the game Codex Naturalis. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+| **[EuroHPC Student Challenge 2025](https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git)** | Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków. | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6600?style=for-the-badge) ![OpenMP](https://img.shields.io/badge/OpenMP-0095D5?style=for-the-badge&logo=openmp&logoColor=white)
 <!-- | **[Project Name](Original Repo Link)** | Helped with [bug fixing, feature development, etc.]. | -->
 
 ---
