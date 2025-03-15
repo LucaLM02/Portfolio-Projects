@@ -28,19 +28,22 @@ This repository serves as my **digital portfolio**, containing my CV, key projec
 | **Lattice Boltzmann Method Simulation** | Computational fluid dynamics simulation for lid-driven cavity flow. |
 
 ### 🏆 Personal Projects
-
+<!--
 | Project | Description |
 |---------|------------|
 | **[Project Name](GitHub Repo Link)** | Description of the project, technologies used, and impact. |
 | **[Project Name](GitHub Repo Link)** | Brief details about this project and your role in it. |
+-->
+
+🚧 *I'm actively working on these projects! More details will be available soon.* 🚀
 
 ### 🤝 Collaborative Projects
 
 | Project | Contribution |
 |---------|-------------|
-| **[Codex Naturalis](https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti)** | Helped with bug fixing, feature development. |
+| **[Codex Naturalis](https://github.com/Diego41ITA/ing-sw-2024-quattrone-galatea-lamperti-lodetti)** | Helped with development of a distributed version of the game Codex Naturalis. |
 | **[EuroHPC Student Challenge 2025](https://github.com/Rudolfovoorg/EuroHPC_Student_Challenge_2025_Team_2.git)** | Participated in EUmaster4HPC challenge at EuroHPC Summit 2025, Kraków. |
-| **[Project Name](Original Repo Link)** | Helped with [bug fixing, feature development, etc.]. |
+<!-- | **[Project Name](Original Repo Link)** | Helped with [bug fixing, feature development, etc.]. | -->
 
 ---
 
