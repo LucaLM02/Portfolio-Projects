@@ -52,4 +52,3 @@ If you're interested in discussing **HPC, Quantum Computing, or Parallel Program
 [![📧 Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:l.lamperti2002@gmail.com)  
 
 🚀 *Let’s build the future of computing together!*
-**
